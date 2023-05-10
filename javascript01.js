@@ -1,0 +1,2 @@
+alert("Contoh script javascript");
+
